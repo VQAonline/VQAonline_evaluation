@@ -27,9 +27,13 @@ Evaluation code for VQAonline, which includes the setup of LLama, METEOR, BERTsc
 Please follow [clipscore](https://github.com/jmhessel/clipscore.git) to run CLIPscore and RefCLIPScore.
 ## Citation
 ```
-@article{chen2023vqaonline,
-        title={Fully Authentic Visual Question Answering Dataset from Online Communities}, 
-        author={Chen, Chongyan and Liu, Mengchen and Codella, Noel and Li, Yunsheng and Yuan, Lu and Gurari, Danna},
-        journal={arXiv preprint arXiv:2311.15562},
-        year={2023}}
+@inproceedings{chen2024fully,
+  title={Fully authentic visual question answering dataset from online communities},
+  author={Chen, Chongyan and Liu, Mengchen and Codella, Noel and Li, Yunsheng and Yuan, Lu and Gurari, Danna},
+  booktitle={European Conference on Computer Vision},
+  pages={252--269},
+  year={2024},
+  organization={Springer}
+}
+
 ```
